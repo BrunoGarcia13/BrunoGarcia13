@@ -1,7 +1,7 @@
-## Olá, boas vindas ao meu perfil 👋
+## Olá, boas vindas ao meu perfil 👋😃
 
 
-Meu nome é Bruno Garcia
+**_Meu nome é Bruno Garcia!_**
 
 - Estou estudando na Alura
 - Estou desenvolvenfo programação
